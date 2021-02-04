@@ -17,4 +17,4 @@ interface SearchRepositoriesErrorAction {
 export type Action =
   | SearchRepositoriesAction
   | SearchRepositoriesSuccessAction
-  | SearchRepositoriesErrorAction
+  | SearchRepositoriesErrorAction;
